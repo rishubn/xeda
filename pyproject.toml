@@ -50,7 +50,7 @@ dependencies = [
   "click ~= 8.1",
   "click_help_colors >= 0.9.1",
   "coloredlogs >= 15.0.1",
-  "rich >= 11.2.0, <13",
+  "rich >= 11.2.0, < 14",
   # experimental CLI
   "simple_term_menu>=1.4",
   # misc, experimental
